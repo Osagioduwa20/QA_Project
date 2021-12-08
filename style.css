@@ -102,8 +102,8 @@ btn-primary:hover {
   margin: 1rem;
 }
 
-.social a {
-  font-size: 4.5em;
+.icon a {
+  font-size: 1.5em;
   padding: 3rem;
 }
 
@@ -131,7 +131,8 @@ btn-primary:hover {
 .fa-twitter:hover,
 .fa-google-plus-g:hover,
 .fa-instagram:hover,
-.fa-youtube:hover {
+.fa-youtube:hover 
+.fa-shopping-cart:hover{
 color: #d5d5d5;
 }
 
