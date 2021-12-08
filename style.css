@@ -19,9 +19,7 @@ html, body {
   font-size: 1.1em !important;
 }
 
-.carousel.slide {
-  max-height: 14rem;
-}
+
 
 .carousel-inner img {
   height: 100%;
